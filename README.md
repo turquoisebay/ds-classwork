@@ -1,3 +1,3 @@
 # ds-classwork
 
-Just some ipython notebooks with data science class projects
+ipython notebooks for homework in CSCI E-109, Data Science, from Harvard
